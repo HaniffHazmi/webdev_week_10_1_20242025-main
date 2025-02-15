@@ -10,6 +10,5 @@
 
     $user->updateUser($_POST['matric'], $_POST['name'], $_POST['role']);
 
-    $user->close();
 
 ?>
